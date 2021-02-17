@@ -6,6 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       Main Branch
       <div>Person3</div>
+      <div>Person1</div>
     </div>
   );
 }
